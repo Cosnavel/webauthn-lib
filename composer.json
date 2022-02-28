@@ -1,18 +1,18 @@
 {
-    "name": "web-auth/webauthn-lib",
+    "name": "cosnavel/webauthn-lib",
     "type": "library",
     "license": "MIT",
     "description": "FIDO2/Webauthn Support For PHP",
     "keywords": ["FIDO", "FIDO2", "webauthn"],
-    "homepage": "https://github.com/web-auth",
+    "homepage": "https://github.com/Cosnavel/webauthn-lib",
     "authors": [
         {
             "name": "Florent Morselli",
             "homepage": "https://github.com/Spomky"
         },
         {
-            "name": "All contributors",
-            "homepage": "https://github.com/web-auth/webauthn-library/contributors"
+            "name": "Cosnavel",
+            "email": "niclasdevelop@gmail.com"
         }
     ],
     "require": {
