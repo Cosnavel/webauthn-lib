@@ -29,10 +29,10 @@
         "ramsey/uuid": "^3.8|^4.0",
         "spomky-labs/base64url": "^2.0",
         "spomky-labs/cbor-php": "^1.0|^2.0",
-        "symfony/process": "^3.0|^4.0|^5.0",
+        "symfony/process": "^3.0 || ^4.0 || ^5.0 || ^6.0",
         "thecodingmachine/safe": "^1.1",
-        "web-auth/cose-lib": "self.version",
-        "web-auth/metadata-service": "self.version"
+        "web-auth/cose-lib": "v3.3",
+        "web-auth/metadata-service": "v3.3"
     },
     "autoload": {
         "psr-4": {
